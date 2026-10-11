@@ -1,12 +1,68 @@
-# zero
+<div align="center">
 
-这是一个尚未初始化的占位仓库，目前默认分支没有源代码或可运行项目。
+# ZERO
 
-## 状态
+**尚未初始化的占位仓库。**<br>
+*An empty repository reserved for a future project.*
 
-- 当前仓库为空，尚未提供构建脚本、依赖清单或发布文件。
-- 后续加入代码后，请同步补充项目用途、运行环境、开发命令和许可证说明。
+[![GitHub](https://img.shields.io/badge/GitHub-kerntau%2Fzero-181717?style=for-the-badge&logo=github)](https://github.com/kerntau/zero)
+[![Status](https://img.shields.io/badge/Status-Placeholder-6B7280?style=for-the-badge)](https://github.com/kerntau/zero)
 
-## 贡献
+</div>
 
-在项目内容确定前无需提交代码；如需初始化，请先创建基础目录和 `README.md`，并在提交信息中说明首个可运行版本。
+---
+
+## 01. PROJECT PURPOSE // 项目定位
+
+zero 当前是空仓库，没有源代码、依赖清单、构建脚本或可运行程序。README 仅用于明确仓库状态，避免将占位项目误认为可用产品。
+
+## 02. TECHNICAL ARCHITECTURE // 技术架构
+
+当前没有可描述的运行时架构。项目初始化后，请在本节补充模块边界、数据流和部署方式。
+
+## 03. TECHNICAL MATRIX // 技术矩阵
+
+| 项目 | 当前状态 |
+| --- | --- |
+| 源代码 | 尚未提供 |
+| 依赖 | 尚未定义 |
+| 构建命令 | 尚未定义 |
+| 测试 | 尚未定义 |
+| 发布 | 尚未定义 |
+
+## 04. REPOSITORY TOPOLOGY // 源码工程拓扑
+
+~~~text
+.
+└── README.md                 # 当前状态与初始化说明
+~~~
+
+## 05. CLONE & QUICK START // 极速装配指南
+
+~~~bash
+git clone https://github.com/kerntau/zero.git
+cd zero
+~~~
+
+仓库初始化前没有可执行的开发命令。
+
+## 06. DEPLOYMENT & VERIFICATION // 部署与验证
+
+当前没有构建或部署目标。加入首个可运行版本后，请补充依赖安装、构建、测试和发布命令，并在本节记录验证结果。
+
+## 07. ENGINEERING CONTRACT // 工程协作契约
+
+- 初始化时先确定项目用途和许可证，再添加实现。
+- 不提交密钥、个人数据或无法说明来源的二进制文件。
+- 首次可运行提交应同时更新 README、目录拓扑和验证步骤。
+
+## 08. ROADMAP // 系统演进路线
+
+- [ ] 确定项目方向和维护范围。
+- [ ] 添加最小可运行代码与依赖清单。
+- [ ] 建立构建、测试和发布流程。
+- [ ] 根据实际技术栈补充架构图和贡献指南。
+
+## 09. LICENSE // 许可证
+
+当前未提供 LICENSE 文件。项目初始化并确定分发方式后，请补充合适的许可证。
